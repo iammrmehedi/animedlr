@@ -30,5 +30,8 @@ All of the free anime found on this app are hosted on third-party servers that a
   <img width="200" src="https://user-images.githubusercontent.com/89072438/168842179-98c21c0a-ad73-4b97-8992-1af9f0c64e21.jpg" alt="Screenshot_3">
   <img width="200" src="https://user-images.githubusercontent.com/89072438/168842625-fc55d9d3-1abf-450a-9f39-1a953d0f2a1b.jpg" alt="Screenshot_4">
 </p>
+
+# Download:
+- Page: https://bitbucket.org/cylonu87/animedlr/downloads/
 # Creator of the App:
 - <a href="https://github.com/cylonu87">Cylonu87</a>
